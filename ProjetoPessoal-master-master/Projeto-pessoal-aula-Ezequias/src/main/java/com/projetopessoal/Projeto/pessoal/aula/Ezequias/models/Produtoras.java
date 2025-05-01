@@ -7,8 +7,8 @@ import java.util.Objects;
 
 @Entity
 @Table(name = "produtoras")
-
 public class Produtoras {
+    
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

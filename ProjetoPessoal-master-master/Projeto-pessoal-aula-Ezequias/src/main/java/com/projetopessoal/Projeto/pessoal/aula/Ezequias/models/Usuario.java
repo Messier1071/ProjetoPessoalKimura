@@ -40,7 +40,7 @@ public class Usuario {
         this.cpf = cpf;
         this.dataNascimento = dataNascimento;
         this.perfil = perfil;
-        this.verificado =verificado;
+        this.verificado = verificado;
     }
 
     public Usuario(UsuarioDTO usuarioDTO) {
